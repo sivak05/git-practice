@@ -1,1 +1,1 @@
-My first git project 
+"learn new thing" 
