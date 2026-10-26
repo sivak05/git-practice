@@ -1,0 +1,8 @@
+#temporary file
+temp.txt
+
+#python cache
+__pycache__/
+
+#environtment secrets
+.env
